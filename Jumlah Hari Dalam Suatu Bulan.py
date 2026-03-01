@@ -15,3 +15,6 @@ try:
 
 except ValueError:
     print("INPUT INVALID! [Input Has In Number Category, Between 1 to 12, Try Again...]")
+    
+    # Memasukkan Bulan Yang Salah : Menggunakan "Try" & "Except" Dengan Tambahan "If" & "Else"
+    # [Line 1, 4, 6, 16]
